@@ -5,13 +5,9 @@
 
 ### Conceitos:
 <ul>
-  <li>Responsividade;/li>
+  <li>Responsividade;</li>
   <li>Json;</li>
-  <li>Map;</li>
-  <li>Arrow Functions;</li>
-  <li>For Each;</li>
-  <li>Evento click;</li>
-  <li>Entre outros.</li>
+  <li>Map.</li>
 </ul>
 
 ### Objetivo:
